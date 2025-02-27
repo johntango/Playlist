@@ -1,0 +1,91 @@
+{
+    "playlist": {
+        "1. Traditional Tango": {
+            "tandas": [
+                {
+                    "songs": [
+                        "La Cumparsita - Carlos Gardel",
+                        "El Choclo - \u00c1ngel Villoldo",
+                        "Adi\u00f3s Muchachos - Carlos Gardel",
+                        "B\u00e9same Mucho - Trio Los Panchos"
+                    ],
+                    "cortina": "Blue Tango - Leroy Anderson"
+                },
+                {
+                    "songs": [
+                        "Libertango - Astor Piazzolla",
+                        "Una Luna - Carlos Di Sarli",
+                        "Quejas de Bandone\u00f3n - An\u00edbal Troilo",
+                        "La Milonga de mis Amores - Francisco Canaro"
+                    ],
+                    "cortina": "Tango in Paris - Jean-Michel Damase"
+                }
+            ]
+        },
+        "2. Modern Tango": {
+            "tandas": [
+                {
+                    "songs": [
+                        "Caminito - El Chino (Orquesta T\u00edpica Fern\u00e1ndez Fierro)",
+                        "Danz\u00f3n de los \u00c1ngeles - Orquesta El Arranque",
+                        "Cuento Chino - La Chicana",
+                        "La Revancha del Tango - Orquesta T\u00edpica Fern\u00e1ndez Fierro"
+                    ],
+                    "cortina": "Take Five - Dave Brubeck"
+                },
+                {
+                    "songs": [
+                        "Tanguera - La Orquesta de la Ciudad de Buenos Aires",
+                        "Milonga del 900 - Los Mareados",
+                        "Milonga de mis Amores - Francisco Canaro",
+                        "Desde el Alma - An\u00edbal Troilo"
+                    ],
+                    "cortina": "Bach\u2019s Air on the G String - Johann Sebastian Bach"
+                }
+            ]
+        },
+        "3. Romantic Tango": {
+            "tandas": [
+                {
+                    "songs": [
+                        "Que Tango es Este - Carlos Di Sarli",
+                        "Sabor a M\u00ed - Los Panchos",
+                        "Nostalgias - An\u00edbal Troilo",
+                        "Yira Yira - Enrique Santos Disc\u00e9polo"
+                    ],
+                    "cortina": "Misty - Erroll Garner"
+                },
+                {
+                    "songs": [
+                        "La Milonga de mis Amores - Francisco Canaro",
+                        "Milonga del 900 - Los Mareados",
+                        "Pa' Bailar - Los Totora"
+                    ],
+                    "cortina": "Autumn Leaves - Joseph Kosma"
+                }
+            ]
+        },
+        "4. Alternative Tango": {
+            "tandas": [
+                {
+                    "songs": [
+                        "Tango de la Muerte - Orquesta T\u00edpica Fern\u00e1ndez Fierro",
+                        "El Hurac\u00e1n - Orquesta T\u00edpica Misteriosa Buenos Aires",
+                        "Nostalgia - Orquesta T\u00edpica El Africano",
+                        "Una Luna - Orquesta T\u00edpica El Arranque"
+                    ],
+                    "cortina": "Libertango - Yo-Yo Ma"
+                },
+                {
+                    "songs": [
+                        "Caf\u00e9 de los Maestros - Caf\u00e9 de los Maestros",
+                        "Cuento Chino - La Chicana",
+                        "La Revancha del Tango - Orquesta T\u00edpica Fern\u00e1ndez Fierro",
+                        "El Cuento de la Vida - Orquesta T\u00edpica Fern\u00e1ndez Fierro"
+                    ],
+                    "cortina": "B\u00e9same Mucho - Consuelo Vel\u00e1zquez"
+                }
+            ]
+        }
+    }
+}
