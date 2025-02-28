@@ -1,62 +1,14 @@
 [
-    {
-      "title": "La Cumparsita",
-      "artist": "Gerardo Matos Rodríguez",
-      "description": "Often referred to as the anthem of Tango, this iconic piece is a must-have in any tango playlist."
-    },
-    {
-      "title": "Por una Cabeza",
-      "artist": "Carlos Gardel",
-      "description": "A classic tango song that has been featured in numerous films and is beloved by dancers worldwide."
-    },
-    {
-      "title": "El Choclo",
-      "artist": "Ángel Villoldo",
-      "description": "One of the most popular tangos, known for its catchy melody and rhythm."
-    },
-    {
-      "title": "Mi Buenos Aires Querido",
-      "artist": "Carlos Gardel",
-      "description": "A heartfelt tribute to the city of Buenos Aires, capturing the essence of tango's birthplace."
-    },
-    {
-      "title": "Adiós Muchachos",
-      "artist": "Julio César Sanders",
-      "description": "A nostalgic tango piece that reflects on the passage of time and farewells."
-    },
-    {
-      "title": "La Yumba",
-      "artist": "Osvaldo Pugliese",
-      "description": "Known for its strong, rhythmic style, this piece is a favorite among tango dancers."
-    },
-    {
-      "title": "Libertango",
-      "artist": "Astor Piazzolla",
-      "description": "A modern tango composition that blends traditional tango with jazz elements."
-    },
-    {
-      "title": "A Media Luz",
-      "artist": "Edgardo Donato",
-      "description": "A romantic tango that has been popular since its release in the 1920s."
-    },
-    {
-      "title": "Caminito",
-      "artist": "Juan de Dios Filiberto",
-      "description": "A classic tango that speaks of longing and unrequited love."
-    },
-    {
-      "title": "La Morocha",
-      "artist": "Enrique Saborido",
-      "description": "One of the earliest tangos to gain international fame, known for its lively tempo."
-    },
-    
+  {
+    "type": "Tango",
+    "songs": [
       {
         "title": "La Cumparsita",
         "artist": "Gerardo Matos Rodríguez",
         "description": "Often referred to as the anthem of Tango, this iconic piece is a must-have in any tango playlist."
       },
       {
-        "title": "Por Una Cabeza",
+        "title": "Por una Cabeza",
         "artist": "Carlos Gardel",
         "description": "A classic tango song that has been featured in numerous films and is beloved by dancers worldwide."
       },
@@ -66,20 +18,48 @@
         "description": "One of the most popular tangos, known for its catchy melody and rhythm."
       },
       {
-        "title": "A Media Luz",
-        "artist": "Edgardo Donato",
-        "description": "A romantic tango that has been popular since its release in the 1920s."
-      },
+        "title": "Mi Buenos Aires Querido",
+        "artist": "Carlos Gardel",
+        "description": "A heartfelt tribute to the city of Buenos Aires, capturing the essence of tango's birthplace."
+      }
+    ]
+  },
+  {
+    "type": "Cortina",
+    "name": "Cortina 1"
+  },
+  {
+    "type": "Vals",
+    "songs": [
       {
         "title": "Adiós Muchachos",
         "artist": "Julio César Sanders",
         "description": "A nostalgic tango piece that reflects on the passage of time and farewells."
       },
       {
-        "title": "Mi Buenos Aires Querido",
-        "artist": "Carlos Gardel",
-        "description": "A heartfelt tribute to the city of Buenos Aires, capturing the essence of tango's birthplace."
+        "title": "La Yumba",
+        "artist": "Osvaldo Pugliese",
+        "description": "Known for its strong, rhythmic style, this piece is a favorite among tango dancers."
       },
+      {
+        "title": "Libertango",
+        "artist": "Astor Piazzolla",
+        "description": "A modern tango composition that blends traditional tango with jazz elements."
+      },
+      {
+        "title": "A Media Luz",
+        "artist": "Edgardo Donato",
+        "description": "A romantic tango that has been popular since its release in the 1920s."
+      }
+    ]
+  },
+  {
+    "type": "Cortina",
+    "name": "Cortina 2"
+  },
+  {
+    "type": "Tango",
+    "songs": [
       {
         "title": "Caminito",
         "artist": "Juan de Dios Filiberto",
@@ -99,7 +79,16 @@
         "title": "Malena",
         "artist": "Lucio Demare",
         "description": "A touching song that tells the story of a woman's poignant singing voice."
-      },
+      }
+    ]
+  },
+  {
+    "type": "Cortina",
+    "name": "Cortina 3"
+  },
+  {
+    "type": "Tango",
+    "songs": [
       {
         "title": "Sur",
         "artist": "Aníbal Troilo",
@@ -116,20 +105,19 @@
         "description": "One of Gardel's most famous songs, celebrated for its romantic lyrics and timeless melody."
       },
       {
-        "title": "La Yumba",
-        "artist": "Osvaldo Pugliese",
-        "description": "Known for its strong, rhythmic style, this piece is a favorite among tango dancers."
-      },
-      {
-        "title": "Libertango",
-        "artist": "Astor Piazzolla",
-        "description": "A modern tango composition that blends traditional tango with jazz elements."
-      },
-      {
         "title": "Balada para un Loco",
         "artist": "Astor Piazzolla",
         "description": "An unconventional tango that captures a feeling of madness and passionate emotion."
-      },
+      }
+    ]
+  },
+  {
+    "type": "Cortina",
+    "name": "Cortina 4"
+  },
+  {
+    "type": "Vals",
+    "songs": [
       {
         "title": "Milonga de mis amores",
         "artist": "Pedro Laurenz",
@@ -149,7 +137,16 @@
         "title": "Milonga Sentimental",
         "artist": "Sebastián Piana",
         "description": "A heartfelt milonga that evokes the nostalgic charm of Buenos Aires."
-      },
+      }
+    ]
+  },
+  {
+    "type": "Cortina",
+    "name": "Cortina 5"
+  },
+  {
+    "type": "Tango",
+    "songs": [
       {
         "title": "Quejas de Bandoneón",
         "artist": "Juan de Dios Filiberto",
@@ -169,7 +166,16 @@
         "title": "Volver",
         "artist": "Carlos Gardel",
         "description": "A timeless tango about returning to one's roots and confronting the passage of time."
-      },
+      }
+    ]
+  },
+  {
+    "type": "Cortina",
+    "name": "Cortina 6"
+  },
+  {
+    "type": "Tango",
+    "songs": [
       {
         "title": "Ojos Negros",
         "artist": "Francisco Canaro",
@@ -189,7 +195,16 @@
         "title": "Milonga Triste",
         "artist": "Sebastián Piana",
         "description": "A melancholic milonga that paints a picture of longing and reflection."
-      },
+      }
+    ]
+  },
+  {
+    "type": "Cortina",
+    "name": "Cortina 7"
+  },
+  {
+    "type": "Vals",
+    "songs": [
       {
         "title": "Oblivion",
         "artist": "Astor Piazzolla",
@@ -201,6 +216,5 @@
         "description": "A classic tango about love and memories."
       }
     ]
-    
-  
-  
+  }
+]
